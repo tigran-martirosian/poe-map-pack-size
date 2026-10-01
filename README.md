@@ -38,7 +38,6 @@ The tests use made-up item texts and a small saved API response and make no netw
 
 - Windows only. It uses `pynput` for the hotkey and `pyperclip` for the clipboard.
 - The numbers are only as good as the wiki for the current game version. Where the wiki lists a modifier several times with different pack sizes, the tool takes the one shown on the item, or else the lowest.
-- The tests use item texts I wrote by hand. The matching hasn't been re-checked against text copied from the game since I moved to the wiki data.
 - The roll rating is fixed for 78%. With another Atlas percentage the total is right, but the rating isn't.
 
 ## Data licence
