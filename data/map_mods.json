@@ -1,0 +1,6469 @@
+{
+ "source": "https://www.poewiki.net/wiki/List_of_map_mods",
+ "license": "CC BY-NC-SA 3.0, https://www.poewiki.net/wiki/Path_of_Exile_Wiki:Copyrights",
+ "fetched": "2026-10-01",
+ "mods": [
+  {
+   "id": "MapMonsterPacksAbominationMapWorlds",
+   "name": "Abhorrent",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Area is inhabited by Abominations"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModMonsterAilments",
+   "name": "Afflicting",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters Ignite, Freeze and Shock on Hit",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "All Monster Damage can Ignite, Freeze and Shock",
+    "60% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMultipleExilesMapWorlds",
+   "name": "Anarchic",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area is inhabited by 2 additional Rogue Exiles"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModTotemCount",
+   "name": "Ancestral",
+   "kind": "prefix",
+   "stat_lines": [
+    "Players have -2 to maximum number of Summoned Totems",
+    "5% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "48% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapNemesisModOnRaresMapWorlds",
+   "name": "Antagonist's",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(20-30)% increased number of Rare Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModRareMonsters",
+   "name": "Antagonist's",
+   "kind": "prefix",
+   "stat_lines": [
+    "Rare Monsters each have 1 additional Modifier",
+    "(35-45)% increased number of Rare Monsters",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalResistance1MapWorldsExpedition",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+20% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalResistance2MapWorlds",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+30% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalResistance2MapWorldsExpedition_",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+30% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalResistance3MapWorldsExpedition",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+40% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalResistance3MapWorlds_",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+40% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalResistanceMapWorlds",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+20% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalResistanceMapWorldsExpedition",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+10% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonsterPhysicalResistance",
+   "name": "Armoured",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+40% Monster Physical Damage Reduction"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksHumanoidsMapWorlds",
+   "name": "Bipedal",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Humanoids"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersMaximumLifeAddedEnergyShield1MapWorldsExpedition_",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (20-29)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersMaximumLifeAddedEnergyShield2MapWorldsExpedition",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (30-39)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersMaximumLifeAddedEnergyShield2MapWorlds_____",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (30-39)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersMaximumLifeAddedEnergyShield3MapWorlds",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (40-49)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersMaximumLifeAddedEnergyShield3MapWorldsExpedition__",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (40-49)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersMaximumLifeAddedEnergyShieldMapWorlds",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (20-29)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersMaximumLifeAddedEnergyShieldMapWorldsExpedition",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (10-19)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModLifeAsEnergyShield",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters gain (70-80)% of Maximum Life as Extra Maximum Energy Shield",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersMaximumLifeAddedEnergyShield",
+   "name": "Buffered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain (40-49)% of Maximum Life as Extra Maximum Energy Shield"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterFireDamage1MapWorldsExpedition",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (50-69)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterFireDamage2MapWorlds",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (70-89)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterFireDamage2MapWorldsExpedition",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (70-89)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterFireDamage3MapWorlds",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterFireDamage3MapWorldsExpedition",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterFireDamageMapWorlds",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (50-69)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterFireDamageMapWorldsExpedition",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (30-49)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberWeakMonsterFireDamage",
+   "name": "Burning",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Fire"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterPacksGoatmenMapWorlds",
+   "name": "Capricious",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Goatmen"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapTotemsMapWorlds",
+   "name": "Ceremonial",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area contains many Totems"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterChainMapWorlds",
+   "name": "Chaining",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' skills Chain 2 additional times"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterChainMapWorldsExpedition",
+   "name": "Chaining",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' skills Chain 2 additional times"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModChain",
+   "name": "Chaining",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters' skills Chain 3 additional times",
+    "Monsters' Projectiles can Chain when colliding with Terrain",
+    "6% increased Pack size",
+    "56% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersAllDamageAlwaysIgnitesMapWorlds_",
+   "name": "Conflagrating",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "All Monster Damage from Hits always Ignites"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonstersAllDamageAlwaysIgnites",
+   "name": "Conflagrating",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "All Monster Damage from Hits always Ignites"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModDamageRotation",
+   "name": "Cycling",
+   "kind": "prefix",
+   "stat_lines": [
+    "Players and their Minions deal no damage for 3 out of every 10 seconds",
+    "5% increased Pack size",
+    "69% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksDemonsMapWorlds",
+   "name": "Demonic",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Demons"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModLessFlaskEffect",
+   "name": "Diluted",
+   "kind": "prefix",
+   "stat_lines": [
+    "Players have 40% less effect of Flasks applied to them",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModAllyPunishment",
+   "name": "Distanced",
+   "kind": "prefix",
+   "stat_lines": [
+    "Players in Area take 20% increased Damage per nearby Ally",
+    "5% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "36% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksRangedMapWorlds",
+   "name": "Emanant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by ranged monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToInflictStatusAilments1MapWorldsExpedition__",
+   "name": "Empowered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have a 15% chance to Ignite, Freeze and Shock on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToInflictStatusAilments2MapWorlds",
+   "name": "Empowered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have a 20% chance to Ignite, Freeze and Shock on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToInflictStatusAilments2MapWorldsExpedition",
+   "name": "Empowered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have a 20% chance to Ignite, Freeze and Shock on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToInflictStatusAilmentsMapWorlds",
+   "name": "Empowered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have a 15% chance to Ignite, Freeze and Shock on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToInflictStatusAilmentsMapWorldsExpedition",
+   "name": "Empowered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have a 10% chance to Ignite, Freeze and Shock on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersChanceToInflictStatusAilments",
+   "name": "Empowered",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have a 20% chance to Ignite, Freeze and Shock on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapBossPossessedMapWorlds",
+   "name": "Enthralled",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Unique Bosses are Possessed"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModPossessedBoss",
+   "name": "Enthralled",
+   "kind": "prefix",
+   "stat_lines": [
+    "Unique Bosses are Possessed",
+    "6% increased Pack size",
+    "56% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModPercentDamage",
+   "name": "Equalising",
+   "kind": "prefix",
+   "stat_lines": [
+    "Rare and Unique Monsters remove 5% of Life, Mana and Energy Shield from Players or their Minions on Hit",
+    "6% increased Pack size",
+    "19% increased Quantity of Items found in this Area",
+    "12% increased Rarity of Items found in this Area",
+    "56% more Currency found in Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterPacksKitavaMapWorlds_",
+   "name": "Feasting",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Area is inhabited by Cultists of Kitava"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterLife1MapWorldsExpedition",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(20-29)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterLife2MapWorlds",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(30-39)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterLife2MapWorldsExpedition",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(30-39)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterLife3MapWorlds",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(40-49)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterLife3MapWorldsExpedition",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(40-49)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterLifeMapWorlds",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(20-29)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterLifeMapWorldsExpedition",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(10-19)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModMonsterLife",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "(90-100)% more Monster Life",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonsterLife",
+   "name": "Fecund",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "(40-49)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksAnimalsMapWorlds",
+   "name": "Feral",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Area is inhabited by Animals"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterFast1MapWorldsExpedition",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(15-20)% increased Monster Movement Speed",
+    "(20-25)% increased Monster Attack Speed",
+    "(20-25)% increased Monster Cast Speed"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterFast2MapWorlds",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(20-25)% increased Monster Movement Speed",
+    "(25-35)% increased Monster Attack Speed",
+    "(25-35)% increased Monster Cast Speed"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterFast2MapWorldsExpedition",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(20-25)% increased Monster Movement Speed",
+    "(25-35)% increased Monster Attack Speed",
+    "(25-35)% increased Monster Cast Speed"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterFast3MapWorlds",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(25-30)% increased Monster Movement Speed",
+    "(35-45)% increased Monster Attack Speed",
+    "(35-45)% increased Monster Cast Speed"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterFast3MapWorldsExpedition__",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(25-30)% increased Monster Movement Speed",
+    "(35-45)% increased Monster Attack Speed",
+    "(35-45)% increased Monster Cast Speed"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterFastMapWorlds",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(15-20)% increased Monster Movement Speed",
+    "(20-25)% increased Monster Attack Speed",
+    "(20-25)% increased Monster Cast Speed"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterFastMapWorldsExpedition",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(10-15)% increased Monster Movement Speed",
+    "(15-20)% increased Monster Attack Speed",
+    "(15-20)% increased Monster Cast Speed"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapUberModTurbo",
+   "name": "Fleet",
+   "kind": "prefix",
+   "stat_lines": [
+    "(35-45)% increased Monster Cast Speed",
+    "(35-45)% increased Monster Attack Speed",
+    "(25-30)% increased Monster Movement Speed",
+    "7% increased Pack size",
+    "56% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterColdDamage1MapWorldsExpedition",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (50-69)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterColdDamage2MapWorlds",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (70-89)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterColdDamage2MapWorldsExpedition",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (70-89)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterColdDamage3MapWorldsExpedition",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterColdDamage3MapWorlds_",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterColdDamageMapWorlds",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (50-69)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterColdDamageMapWorldsExpedition",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (30-49)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberWeakMonsterColdDamage",
+   "name": "Freezing",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Cold"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModVines",
+   "name": "Grasping",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters inflict 2 Grasping Vines on Hit",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "40% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksGhostsMapWorlds",
+   "name": "Haunting",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Ghosts"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapHexproofMapWorlds",
+   "name": "Hexproof",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters are Hexproof"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberWeakHexproof",
+   "name": "Hexproof",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters are Hexproof"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersCurseEffectOnSelfFinal1MapWorldsExpedition",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "25% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersCurseEffectOnSelfFinal2MapWorlds",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "40% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersCurseEffectOnSelfFinal2MapWorldsExpedition",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "40% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersCurseEffectOnSelfFinal3MapWorlds",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "60% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersCurseEffectOnSelfFinal3MapWorldsExpedition_",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "60% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersCurseEffectOnSelfFinalMapWorlds",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "25% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersCurseEffectOnSelfFinalMapWorldsExpedition",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "10% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModPlayerCurseEffect",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "100% reduced Effect of Curses on Monsters",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "53% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersCurseEffectOnSelfFinal",
+   "name": "Hexwarded",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "60% less effect of Curses on Monsters"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModDrowningOrbs",
+   "name": "Hungering",
+   "kind": "prefix",
+   "stat_lines": [
+    "Area contains Drowning Orbs",
+    "20% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapMonstersImpaleOnHit1MapWorldsExpedition__",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 25% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersImpaleOnHit2MapWorlds",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 40% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersImpaleOnHit2MapWorldsExpedition_",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 40% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersImpaleOnHit3MapWorldsExpedition",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 60% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersImpaleOnHit3MapWorlds_",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 60% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersImpaleOnHitMapWorlds",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 25% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersImpaleOnHitMapWorldsExpedition_",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 15% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModImpaleDetonation",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "When a fifth Impale is inflicted on a Player,",
+    "Impales are removed to Reflect their Physical Damage multiplied",
+    "by their remaining Hits to that Player and their Allies within 1.8 metres",
+    "Monsters' Attacks Impale on Hit",
+    "5% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "56% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersImpaleOnHit",
+   "name": "Impaling",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters' Attacks have 60% chance to Impale on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonstersAvoidPoisonBleedBlind1MapWorldsExpedition",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 20% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersAvoidPoisonBleedBlind2MapWorlds",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 35% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersAvoidPoisonBleedBlind2MapWorldsExpedition_",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 35% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersAvoidPoisonBleedBlind3MapWorlds",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 50% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersAvoidPoisonBleedBlind3MapWorldsExpedition",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 50% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersAvoidPoisonBleedBlindMapWorlds",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 20% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersAvoidPoisonBleedBlindMapWorldsExpedition__",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 10% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonstersAvoidPoisonBleedBlind",
+   "name": "Impervious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have a 50% chance to avoid Poison, Impale, and Bleeding"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapQuantityAddedAsRarityVendorItem",
+   "name": "Kirac's",
+   "kind": "prefix",
+   "stat_lines": [
+    "This Area's Modifiers to Quantity of Items found also apply to Rarity",
+    "15% increased Quantity of Items found in this Area",
+    "10% increased Pack size"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapUberModLabyrinthHazards",
+   "name": "Labyrinth's",
+   "kind": "prefix",
+   "stat_lines": [
+    "Area contains Labyrinth Hazards",
+    "5% increased Pack size",
+    "54% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksLunarisMapWorlds_",
+   "name": "Lunar",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Lunaris fanatics"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModProjAOE",
+   "name": "Magnifying",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters fire 2 additional Projectiles",
+    "Monsters have 100% increased Area of Effect",
+    "7% increased Pack size",
+    "56% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterElementalReflection1MapWorldsExpedition",
+   "name": "Mirrored",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Elemental Thorns reflecting 900 Elemental Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterElementalReflection2MapWorlds",
+   "name": "Mirrored",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Elemental Thorns reflecting 1200 Elemental Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterElementalReflection2MapWorldsExpedition",
+   "name": "Mirrored",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Elemental Thorns reflecting 1200 Elemental Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterElementalReflection3MapWorlds",
+   "name": "Mirrored",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Elemental Thorns reflecting 1500 Elemental Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterElementalReflection3MapWorldsExpedition",
+   "name": "Mirrored",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Elemental Thorns reflecting 1500 Elemental Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterElementalReflectionMapWorlds",
+   "name": "Mirrored",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Elemental Thorns reflecting 900 Elemental Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonsterElementalReflection",
+   "name": "Mirrored",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Elemental Thorns reflecting 1500 Elemental Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMoreMonsterPackVarietyMapWorlds_",
+   "name": "Multifarious",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has increased monster variety"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersChanceToSuppressSpells1MapWorldsExpedition__",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +30% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToSuppressSpells2MapWorlds",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +45% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToSuppressSpells2MapWorldsExpedition",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +45% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToSuppressSpells3MapWorlds",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +60% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToSuppressSpells3MapWorldsExpedition",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +60% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToSuppressSpellsMapWorlds",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +30% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersChanceToSuppressSpellsMapWorldsExpedition",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +20% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModMonsterSuppress",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters have +100% chance to Suppress Spell Damage",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersChanceToSuppressSpells",
+   "name": "Oppressive",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have +60% chance to Suppress Spell Damage"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapBeyondLeagueRolledMapWorlds",
+   "name": "Otherworldly",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Slaying Enemies close together can attract monsters from Beyond this realm"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapDangerousBoss1MapWorlds",
+   "name": "Overlord's",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Unique Boss deals 15% increased Damage",
+    "Unique Boss has 20% increased Attack and Cast Speed"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapDangerousBoss2MapWorlds",
+   "name": "Overlord's",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Unique Boss deals 20% increased Damage",
+    "Unique Boss has 25% increased Attack and Cast Speed"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapDangerousBoss3MapWorlds",
+   "name": "Overlord's",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Unique Boss deals 25% increased Damage",
+    "Unique Boss has 30% increased Attack and Cast Speed"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberWeakDangerousBoss",
+   "name": "Overlord's",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Unique Boss deals 25% increased Damage",
+    "Unique Boss has 30% increased Attack and Cast Speed"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModTotemLife",
+   "name": "Parasitic",
+   "kind": "prefix",
+   "stat_lines": [
+    "15% of Damage Players' Totems take from Hits is taken from their Summoner's Life instead",
+    "5% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "36% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModDamageAsElemental",
+   "name": "Prismatic",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters gain (180-200)% of their Physical Damage as Extra Damage of a random Element",
+    "6% increased Pack size",
+    "71% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterChaosDamage2MapWorlds",
+   "name": "Profane",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters gain (21-25)% of their Physical Damage as Extra Chaos Damage",
+    "Monsters Inflict Withered for 2 seconds on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterChaosDamage2MapWorldsExpedition",
+   "name": "Profane",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters gain (21-25)% of their Physical Damage as Extra Chaos Damage",
+    "Monsters Inflict Withered for 2 seconds on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterChaosDamage3MapWorlds",
+   "name": "Profane",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters gain (31-35)% of their Physical Damage as Extra Chaos Damage",
+    "Monsters Inflict Withered for 2 seconds on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterChaosDamage3MapWorldsExpedition",
+   "name": "Profane",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters gain (31-35)% of their Physical Damage as Extra Chaos Damage",
+    "Monsters Inflict Withered for 2 seconds on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModDamageAsChaos",
+   "name": "Profane",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters gain (80-100)% of their Physical Damage as Extra Chaos Damage",
+    "6% increased Pack size",
+    "46% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberWeakMonsterChaosDamage",
+   "name": "Profane",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters gain (31-35)% of their Physical Damage as Extra Chaos Damage",
+    "Monsters Inflict Withered for 2 seconds on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModResistancePDR",
+   "name": "Protected",
+   "kind": "prefix",
+   "stat_lines": [
+    "+50% Monster Physical Damage Reduction",
+    "+55% Monster Elemental Resistances",
+    "+35% Monster Chaos Resistance",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPhysicalReflection1MapWorldsExpedition",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Physical Thorns reflecting 400 Physical Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterPhysicalReflection2MapWorlds",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Physical Thorns reflecting 600 Physical Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterPhysicalReflection2MapWorldsExpedition",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Physical Thorns reflecting 600 Physical Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterPhysicalReflection3MapWorlds",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Physical Thorns reflecting 800 Physical Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterPhysicalReflection3MapWorldsExpedition___",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Physical Thorns reflecting 800 Physical Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterPhysicalReflectionMapWorlds",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Physical Thorns reflecting 400 Physical Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModReflect",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "Rare Monsters have Physical Thorns reflecting 1500 Physical Damage",
+    "Rare Monsters have Elemental Thorns reflecting 2500 Elemental Damage",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "10% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonsterPhysicalReflection",
+   "name": "Punishing",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Rare Monsters have Physical Thorns reflecting 800 Physical Damage"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersAllResistances1MapWorldsExpedition",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+15% Monster Chaos Resistance",
+    "+20% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersAllResistances2MapWorlds",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+20% Monster Chaos Resistance",
+    "+30% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersAllResistances2MapWorldsExpedition",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+20% Monster Chaos Resistance",
+    "+30% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersAllResistances3MapWorlds",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+25% Monster Chaos Resistance",
+    "+40% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersAllResistances3MapWorldsExpedition__",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+25% Monster Chaos Resistance",
+    "+40% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersAllResistancesMapWorlds",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+15% Monster Chaos Resistance",
+    "+20% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersAllResistancesMapWorldsExpedition",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+10% Monster Chaos Resistance",
+    "+10% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersAllResistances",
+   "name": "Resistant",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "+25% Monster Chaos Resistance",
+    "+40% Monster Elemental Resistances"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModMarkedForDeath",
+   "name": "Retributive",
+   "kind": "prefix",
+   "stat_lines": [
+    "Players are Marked for Death for 10 seconds",
+    "after killing a Rare or Unique monster",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModTrapMineCount",
+   "name": "Sabotaging",
+   "kind": "prefix",
+   "stat_lines": [
+    "Player Skills which Throw Traps throw 1 fewer Trap",
+    "Player Skills which Throw Mines throw 1 fewer Mine",
+    "5% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "36% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterDamage1MapWorldsExpedition",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(14-17)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterDamage2MapWorlds",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(18-21)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterDamage2MapWorldsExpedition",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(18-21)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterDamage3MapWorlds",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(22-25)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterDamage3MapWorldsExpedition",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(22-25)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterDamageMapWorldsExpedition",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(10-13)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterDamageMapWorlds_",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(14-17)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapUberModMonsterDamage",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "(30-40)% increased Monster Damage",
+    "7% increased Pack size",
+    "56% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapUberWeakMonsterDamage",
+   "name": "Savage",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "(22-25)% increased Monster Damage"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapUberModExarch",
+   "name": "Searing",
+   "kind": "prefix",
+   "stat_lines": [
+    "Area contains Runes of the Searing Exarch",
+    "20% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapMonsterLightningDamage1MapWorldsExpedition",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (50-69)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterLightningDamage2MapWorldsExpedition_",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (70-89)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterLightningDamage2MapWorlds__",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (70-89)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterLightningDamage3MapWorlds",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterLightningDamage3MapWorldsExpedition_",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterLightningDamageMapWorlds",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (50-69)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterLightningDamageMapWorldsExpedition",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (30-49)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberWeakMonsterLightningDamage",
+   "name": "Shocking",
+   "kind": "prefix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters deal (90-110)% extra Physical Damage as Lightning"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterPacksSkeletonsMapWorlds_",
+   "name": "Skeletal",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Skeletons"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksSpawnsSeaWitchesMapWorlds",
+   "name": "Slithering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Sea Witches and their Spawn"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksSolarisMapWorlds_",
+   "name": "Solar",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Solaris fanatics"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterMultipleProjectilesWorlds",
+   "name": "Splitting",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Monsters fire 2 additional Projectiles"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapMonsterMultipleProjectilesWorldsExpedition_",
+   "name": "Splitting",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Monsters fire 2 additional Projectiles"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapUberModMonsterAttackBlock",
+   "name": "Stalwart",
+   "kind": "prefix",
+   "stat_lines": [
+    "Monsters have +50% Chance to Block Attack Damage",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModSynthMiniboss",
+   "name": "Synthetic",
+   "kind": "prefix",
+   "stat_lines": [
+    "Map Boss is accompanied by a Synthesis Boss",
+    "20% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapMassiveBoss1MapWorlds",
+   "name": "Titan's",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Unique Boss has 25% increased Life",
+    "Unique Boss has 45% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMassiveBoss2MapWorlds",
+   "name": "Titan's",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Unique Boss has 30% increased Life",
+    "Unique Boss has 55% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMassiveBoss3MapWorlds",
+   "name": "Titan's",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Unique Boss has 35% increased Life",
+    "Unique Boss has 70% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMassiveBoss",
+   "name": "Titan's",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Unique Boss has 35% increased Life",
+    "Unique Boss has 70% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapTwoBossesMapWorlds",
+   "name": "Twinned",
+   "kind": "prefix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Area contains two Unique Bosses"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapUberModSawblades",
+   "name": "Ultimate",
+   "kind": "prefix",
+   "stat_lines": [
+    "Players are assaulted by Bloodstained Sawblades",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksUndeadMapWorlds_",
+   "name": "Undead",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Area is inhabited by Undead"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersCantBeSlowedOrTauntedMapWorldsExpedition_",
+   "name": "Unstoppable",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters' Action Speed cannot be modified to below Base Value",
+    "Monsters' Movement Speed cannot be modified to below Base Value",
+    "Monsters cannot be Taunted"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersCantBeSlowedOrTauntedMapWorlds_",
+   "name": "Unstoppable",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters' Action Speed cannot be modified to below Base Value",
+    "Monsters' Movement Speed cannot be modified to below Base Value",
+    "Monsters cannot be Taunted"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonstersCantBeSlowedOrTaunted",
+   "name": "Unstoppable",
+   "kind": "prefix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters' Action Speed cannot be modified to below Base Value",
+    "Monsters' Movement Speed cannot be modified to below Base Value",
+    "Monsters cannot be Taunted"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterCannotBeStunned1MapWorldsExpedition_",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(15-19)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterCannotBeStunned2MapWorlds",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(20-24)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterCannotBeStunned2MapWorldsExpedition",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(20-24)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterCannotBeStunned3MapWorldsExpedition__",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(25-30)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterCannotBeStunned3MapWorlds_",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(25-30)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterCannotBeStunnedMapWorldsExpedition",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(10-14)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterCannotBeStunnedMapWorlds_",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(15-19)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonsterCannotBeStunned",
+   "name": "Unwavering",
+   "kind": "prefix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters cannot be Stunned",
+    "(25-30)% more Monster Life"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterPacksVaalMapWorlds",
+   "name": "Vaal",
+   "kind": "prefix",
+   "stat_lines": [
+    "20% increased Quantity of Items found in this Area",
+    "20% increased Rarity of Items found in this Area",
+    "10% increased Pack size",
+    "Found Items have 10% chance to drop Corrupted in Area",
+    "Area is inhabited by the Vaal"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapUberModShaperTouched",
+   "name": "Valdo's",
+   "kind": "prefix",
+   "stat_lines": [
+    "Rare monsters in area are Shaper-Touched",
+    "20% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapUberModVolatiles",
+   "name": "Volatile",
+   "kind": "prefix",
+   "stat_lines": [
+    "Rare Monsters have Volatile Cores",
+    "5% increased Pack size",
+    "11% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "53% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerElementalEquilibriumMap2Tier",
+   "name": "of Balance",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "5% increased Rarity of Items found in this Area",
+    "Players cannot inflict Exposure",
+    "10% increased Pack size"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapPlayerElementalEquilibriumMapWorlds",
+   "name": "of Balance",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Players cannot inflict Exposure"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayerElementalEquilibriumMapWorldsExpedition__",
+   "name": "of Balance",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Players cannot inflict Exposure"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBlindOnHitMapWorlds",
+   "name": "of Blinding",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Blind on Hit"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBlindOnHitMapWorldsExpedition__",
+   "name": "of Blinding",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Blind on Hit"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonstersBlindOnHit",
+   "name": "of Blinding",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Blind on Hit"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapBloodlinesModOnMagicsMapWorlds",
+   "name": "of Bloodlines",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "(20-30)% increased Magic Monsters"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersMaimOnHitMapWorlds",
+   "name": "of Carnage",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Maim on Hit with Attacks"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersMaimOnHitMapWorldsExpedition_",
+   "name": "of Carnage",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Maim on Hit with Attacks"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonstersMaimOnHit",
+   "name": "of Carnage",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Maim on Hit with Attacks"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModMavenFollower",
+   "name": "of Collection",
+   "kind": "suffix",
+   "stat_lines": [
+    "The Maven interferes with Players",
+    "20% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapMonsterLifeLeechImmunityMapWorlds",
+   "name": "of Congealment",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters cannot be Leeched from"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModLessPlayerLeech",
+   "name": "of Congealment",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players have (60-50)% reduced Maximum total Life, Mana and Energy Shield Recovery per second from Leech",
+    "6% increased Pack size",
+    "49% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModNoLeech",
+   "name": "of Congealment",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monsters cannot be Leeched from",
+    "6% increased Pack size",
+    "49% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapConsecratedGround1MapWorldsExpedition_",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapConsecratedGround2MapWorlds",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapConsecratedGround2MapWorldsExpedition_______",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapConsecratedGround3MapWorldsExpedition",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapConsecratedGround3MapWorlds__",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapConsecratedGroundMapWorlds",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapConsecratedGroundMapWorldsExpedition",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "16 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 12 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakConsecratedGround",
+   "name": "of Consecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Consecrated Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModCurses",
+   "name": "of Curses",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players are Cursed with Vulnerability",
+    "Players are Cursed with Temporal Chains",
+    "Players are Cursed with Elemental Weakness",
+    "6% increased Pack size",
+    "11% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Scarabs found in Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterCriticalStrikesAndDamage1MapWorldsExpedition_",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (160-200)% increased Critical Strike Chance",
+    "+(30-35)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterCriticalStrikesAndDamage2MapWorlds",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (260-300)% increased Critical Strike Chance",
+    "+(36-40)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterCriticalStrikesAndDamage2MapWorldsExpedition",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (260-300)% increased Critical Strike Chance",
+    "+(36-40)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterCriticalStrikesAndDamage3MapWorlds",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (360-400)% increased Critical Strike Chance",
+    "+(41-45)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterCriticalStrikesAndDamage3MapWorldsExpedition",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (360-400)% increased Critical Strike Chance",
+    "+(41-45)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterCriticalStrikesAndDamageMapWorlds",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (160-200)% increased Critical Strike Chance",
+    "+(30-35)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapMonsterCriticalStrikesAndDamageMapWorldsExpedition",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (60-100)% increased Critical Strike Chance",
+    "+(25-29)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModCrit",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "+(70-75)% to Monster Critical Strike Multiplier",
+    "Monsters have (650-700)% increased Critical Strike Chance",
+    "6% increased Pack size",
+    "56% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberWeakMonsterCriticalStrikesAndDamage",
+   "name": "of Deadliness",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters have (360-400)% increased Critical Strike Chance",
+    "+(41-45)% to Monster Critical Strike Multiplier"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModElderNovas",
+   "name": "of Decaying",
+   "kind": "suffix",
+   "stat_lines": [
+    "20% increased Pack size",
+    "16% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "Area contains Unstable Tentacle Fiends"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapUberModActionSpeed",
+   "name": "of Deceleration",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players have 3% reduced Action Speed for each time they've used a Skill Recently",
+    "6% increased Pack size",
+    "81% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModMonsterDebuffSpeed",
+   "name": "of Defiance",
+   "kind": "suffix",
+   "stat_lines": [
+    "Debuffs on Monsters expire 100% faster",
+    "6% increased Pack size",
+    "16% increased Quantity of Items found in this Area",
+    "12% increased Rarity of Items found in this Area",
+    "64% more Currency found in Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapDesecratedGround1MapWorlds",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapDesecratedGround1MapWorldsExpedition",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapDesecratedGround2MapWorldsExpedition",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapDesecratedGround2MapWorlds__",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapDesecratedGround3MapWorlds",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapDesecratedGround3MapWorldsExpedition",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapDesecratedGroundMapWorldsExpedition",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "16 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 12 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakDesecratedGround",
+   "name": "of Desecration",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of desecrated ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModSirusGround",
+   "name": "of Desolation",
+   "kind": "suffix",
+   "stat_lines": [
+    "Area has patches of Awakeners' Desolation",
+    "20% increased Pack size",
+    "16% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 12 (Hidden)"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapUberModShrineBuff",
+   "name": "of Domination",
+   "kind": "suffix",
+   "stat_lines": [
+    "Unique Monsters have a random Shrine Buff",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersReducedAuraEffect1MapWorldsExpedition",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersReducedAuraEffect2MapWorlds",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersReducedAuraEffect2MapWorldsExpedition",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersReducedAuraEffect3MapWorldsExpedition",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 60% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersReducedAuraEffect3MapWorlds_",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 60% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersReducedAuraEffectMapWorlds",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersReducedAuraEffectMapWorldsExpedition_",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 15% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModAuraEffect",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players have 90% reduced effect of Non-Curse Auras from Skills",
+    "20% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapUberWeakPlayersReducedAuraEffect",
+   "name": "of Doubt",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 60% reduced effect of Non-Curse Auras from Skills"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "5% increased Rarity of Items found in this Area",
+    "10% increased Pack size",
+    "Players gain 30% reduced Flask Charges"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges1MapWorldsExpedition",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 30% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges2",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "5% increased Rarity of Items found in this Area",
+    "10% increased Pack size",
+    "Players gain 40% reduced Flask Charges"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges2MapWorldsExpedition___",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 40% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges2MapWorlds_",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 40% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges3",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "5% increased Rarity of Items found in this Area",
+    "10% increased Pack size",
+    "Players gain 50% reduced Flask Charges"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges3MapWorldsExpedition_",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 50% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskCharges3MapWorlds_",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 50% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskChargesMapWorlds",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 30% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersGainReducedFlaskChargesMapWorldsExpedition_",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 20% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayersGainReducedFlaskCharges",
+   "name": "of Drought",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players gain 50% reduced Flask Charges"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseElementalWeakness1Map2Tier",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Elemental Weakness",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseElementalWeakness1MapWorlds",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Elemental Weakness"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseElementalWeakness1MapWorldsExpedition_",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Elemental Weakness"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseElementalWeakness2Map2Tier",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Elemental Weakness",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseElementalWeakness2MapWorlds",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Elemental Weakness"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseElementalWeakness2MapWorldsExpedition_",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Elemental Weakness"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseElementalWeaknessMapWorldsExpedition__",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Elemental Weakness"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayerCurseElementalWeakness",
+   "name": "of Elemental Weakness",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Elemental Weakness"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersEnduranceChargeOnHitMapWorlds",
+   "name": "of Endurance",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain an Endurance Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersEnduranceChargeOnHitMapWorldsExpedition",
+   "name": "of Endurance",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain an Endurance Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModEnduranceCharges",
+   "name": "of Endurance",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monsters have +1 to Maximum Endurance Charges",
+    "Monsters gain an Endurance Charge when hit",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersEnduranceChargeOnHit",
+   "name": "of Endurance",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain an Endurance Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersStealChargesOnHitMapWorlds",
+   "name": "of Enervation",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters steal Power, Frenzy and Endurance charges on Hit"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersStealChargesOnHitMapWorldsExpedition",
+   "name": "of Enervation",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters steal Power, Frenzy and Endurance charges on Hit"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonstersStealChargesOnHit",
+   "name": "of Enervation",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters steal Power, Frenzy and Endurance charges on Hit"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayerCurseEnfeeblement1Map2Tier",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Enfeeble",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseEnfeeblement1MapWorlds",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Enfeeble"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseEnfeeblement1MapWorldsExpedition_",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Enfeeble"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseEnfeeblement2Map2Tier",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Enfeeble",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseEnfeeblement2MapWorlds",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Enfeeble"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseEnfeeblement2MapWorldsExpedition_",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Enfeeble"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseEnfeeblementMapWorldsExpedition_",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Enfeeble"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayerCurseEnfeeblement",
+   "name": "of Enfeeblement",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Enfeeble"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerMaxResists1Map2Tier",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players have -(8-5)% to all maximum Resistances",
+    "16% increased Pack size"
+   ],
+   "pack_size": 16,
+   "pack_size_max": 16
+  },
+  {
+   "id": "MapPlayerMaxResists1MapWorlds",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Players have -(8-5)% to all maximum Resistances"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapPlayerMaxResists1MapWorldsExpedition",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Players have -(8-5)% to all maximum Resistances"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapPlayerMaxResists2Map2Tier",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players have -(12-9)% to all maximum Resistances",
+    "16% increased Pack size"
+   ],
+   "pack_size": 16,
+   "pack_size_max": 16
+  },
+  {
+   "id": "MapPlayerMaxResists2MapWorlds",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Players have -(12-9)% to all maximum Resistances"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapPlayerMaxResists2MapWorldsExpedition",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Players have -(12-9)% to all maximum Resistances"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapUberModMinusMax",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players have -20% to all maximum Resistances",
+    "20% increased Pack size",
+    "11% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapUberWeakPlayerMaxResists",
+   "name": "of Exposure",
+   "kind": "suffix",
+   "stat_lines": [
+    "19% increased Quantity of Items found in this Area",
+    "11% increased Rarity of Items found in this Area",
+    "7% increased Pack size",
+    "Players have -(12-9)% to all maximum Resistances"
+   ],
+   "pack_size": 7,
+   "pack_size_max": 7
+  },
+  {
+   "id": "MapPlayersLessCooldownRecovery1MapWorldsExpedition_",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessCooldownRecovery2MapWorlds",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 30% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessCooldownRecovery2MapWorldsExpedition",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 30% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessCooldownRecovery3MapWorlds",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessCooldownRecovery3MapWorldsExpedition_",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessCooldownRecoveryMapWorlds",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessCooldownRecoveryMapWorldsExpedition__",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 15% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayersLessCooldownRecovery",
+   "name": "of Fatigue",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% less Cooldown Recovery Rate"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModLowLifeTorment",
+   "name": "of Fear",
+   "kind": "suffix",
+   "stat_lines": [
+    "Unique Bosses are Possessed",
+    "5% increased Pack size",
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "40% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapBurningGround1MapWorldsExpedition_",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapBurningGround1MapWorlds_",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapBurningGround2MapWorlds",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapBurningGround2MapWorldsExpedition",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapBurningGround3MapWorlds",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapBurningGround3MapWorldsExpedition_",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapBurningGroundMapWorldsExpedition",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "16 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 12 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakBurningGround",
+   "name": "of Flames",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Burning Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersFrenzyChargeOnHitMapWorlds",
+   "name": "of Frenzy",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain a Frenzy Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersFrenzyChargeOnHitMapWorldsExpedition_",
+   "name": "of Frenzy",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain a Frenzy Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModFrenzyCharges",
+   "name": "of Frenzy",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monsters gain a Frenzy Charge on Hit",
+    "Monsters have +1 to Maximum Frenzy Charges",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersFrenzyChargeOnHit",
+   "name": "of Frenzy",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain a Frenzy Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterAreaOfEffect1MapWorldsExpedition_",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 45% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterAreaOfEffect2MapWorlds",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 70% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterAreaOfEffect2MapWorldsExpedition",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 70% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterAreaOfEffect3MapWorlds",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 100% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterAreaOfEffect3MapWorldsExpedition__",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 100% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterAreaOfEffectMapWorlds",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 45% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterAreaOfEffectMapWorldsExpedition",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 25% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonsterAreaOfEffect",
+   "name": "of Giants",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters have 100% increased Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerBloodMagicMap2Tier",
+   "name": "of Hemomancy",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "Players have Blood Magic",
+    "10% increased Pack size"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapCorruptedSideAreaPackSize",
+   "name": "of Hordes",
+   "kind": "suffix",
+   "stat_lines": [
+    "(30-60)% increased Pack size"
+   ],
+   "pack_size": 30,
+   "pack_size_max": 60
+  },
+  {
+   "id": "MapLargePacks",
+   "name": "of Hordes",
+   "kind": "suffix",
+   "stat_lines": [
+    "(20-50)% increased Pack size"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 50
+  },
+  {
+   "id": "MapChilledGroundSuffix1MapWorlds",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapChilledGroundSuffix1MapWorldsExpedition",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapChilledGroundSuffix2MapWorlds",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapChilledGroundSuffix2MapWorldsExpedition",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapChilledGroundSuffix3MapWorldsExpedition",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapChilledGroundSuffix3MapWorlds_",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapChilledGroundSuffixMapWorldsExpedition",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "16 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 12 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakChilledGroundSuffix",
+   "name": "of Ice",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Chilled Ground",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModFlaskMeteor",
+   "name": "of Imbibing",
+   "kind": "suffix",
+   "stat_lines": [
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "Players are targeted by a Meteor when they use a Flask",
+    "45% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersHinderOnHitMapWorlds",
+   "name": "of Impedance",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Hinder on Hit with Spells"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersHinderOnHitMapWorldsExpedition",
+   "name": "of Impedance",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters Hinder on Hit with Spells"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersLessAoERadius",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "12% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "10% increased Pack size",
+    "Players have 15% less Area of Effect"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapPlayersLessAoERadius1MapWorldsExpedition",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 15% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessAoERadius2",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "12% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "10% increased Pack size",
+    "Players have 20% less Area of Effect"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapPlayersLessAoERadius2MapWorlds",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessAoERadius2MapWorldsExpedition",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessAoERadius3MapWorlds",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessAoERadius3MapWorldsExpedition",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessAoERadius3_",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "12% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "10% increased Pack size",
+    "Players have 25% less Area of Effect"
+   ],
+   "pack_size": 10,
+   "pack_size_max": 10
+  },
+  {
+   "id": "MapPlayersLessAoERadiusMapWorlds",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 15% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersLessAoERadiusMapWorldsExpedition",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 10% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModAOEPlayer",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players have (30-25)% less Area of Effect",
+    "5% increased Pack size",
+    "69% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayersLessAoERadius",
+   "name": "of Impotence",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% less Area of Effect"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersAccuracyRating1MapWorldsExpedition_",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 15% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersAccuracyRating2MapWorlds",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersAccuracyRating2MapWorldsExpedition",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersAccuracyRating3MapWorlds",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersAccuracyRating3MapWorldsExpedition_",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersAccuracyRatingMapWorldsExpedition__",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 10% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersAccuracyRatingMapWorlds_",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 15% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayersAccuracyRating",
+   "name": "of Imprecision",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 25% less Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonsterStatusAilmentAvoidance2MapWorlds",
+   "name": "of Insulation",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have 50% chance to Avoid Elemental Ailments"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterStatusAilmentAvoidanceMapWorlds",
+   "name": "of Insulation",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have 30% chance to Avoid Elemental Ailments"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonsterStatusAilmentImmunityMapWorlds",
+   "name": "of Insulation",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have 70% chance to Avoid Elemental Ailments"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakMonsterStatusAilmentImmunity",
+   "name": "of Insulation",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters have 70% chance to Avoid Elemental Ailments"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapShockedGround1MapWorlds",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 20%",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapShockedGround1MapWorldsExpedition_",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 20%",
+    "20 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 14 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapShockedGround2MapWorlds",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 35%",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapShockedGround2MapWorldsExpedition",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 35%",
+    "24 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 16 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapShockedGround3MapWorlds",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 50%",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapShockedGround3MapWorldsExpedition",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 50%",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapShockedGroundMapWorldsExpedition",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 10%",
+    "16 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 12 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakShockedGround",
+   "name": "of Lightning",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Area has patches of Shocked Ground which increase Damage taken by 50%",
+    "28 patches with Ground Effect per 100 tiles (Hidden)",
+    "Ground Effect has a radius of 18 (Hidden)"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModPlayerMarked",
+   "name": "of Marking",
+   "kind": "suffix",
+   "stat_lines": [
+    "Area contains patches of moving Marked Ground, inflicting random Marks",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area",
+    "36% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge1",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "12% increased Pack size",
+    "Players have -10% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 30% increased Accuracy Rating"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge1MapWorlds",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -10% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 30% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge1MapWorldsExpedition",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -10% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 30% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge2",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "12% increased Pack size",
+    "Players have -15% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 40% increased Accuracy Rating"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge2MapWorlds",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -15% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 40% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge2MapWorldsExpedition",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -15% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 40% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge3",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "12% increased Pack size",
+    "Players have -20% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 50% increased Accuracy Rating"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge3MapWorlds",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -20% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 50% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodge3MapWorldsExpedition",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -20% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 50% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersEvasionAndUnluckyDodgeMapWorldsExpedition",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -10% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 20% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModGlobalDefences",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players have (30-25)% less Defences",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayersEvasionAndUnluckyDodge",
+   "name": "of Miring",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have -20% to amount of Suppressed Spell Damage Prevented",
+    "Monsters have 50% increased Accuracy Rating"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModEleDamagePenetration",
+   "name": "of Penetration",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monster Damage Penetrates 15% Elemental Resistances",
+    "6% increased Pack size",
+    "72% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModRaresLastGasp",
+   "name": "of Persistence",
+   "kind": "suffix",
+   "stat_lines": [
+    "Rare monsters in area Temporarily Revive on death",
+    "17% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 17,
+   "pack_size_max": 17
+  },
+  {
+   "id": "MapUberModPetrify",
+   "name": "of Petrification",
+   "kind": "suffix",
+   "stat_lines": [
+    "Area contains Petrification Statues",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersPowerChargeOnHitMapWorlds",
+   "name": "of Power",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain a Power Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersPowerChargeOnHitMapWorldsExpedition",
+   "name": "of Power",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain a Power Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModPowerCharges",
+   "name": "of Power",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monsters gain a Power Charge on Hit",
+    "Monsters have +1 to Maximum Power Charges",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Maps found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersPowerChargeOnHit",
+   "name": "of Power",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Monsters gain a Power Charge on Hit"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModNoCharges",
+   "name": "of Powerlessness",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players cannot gain Power Charges",
+    "Players cannot gain Frenzy Charges",
+    "Players cannot gain Endurance Charges",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "10% increased Quantity of Items found in this Area",
+    "57% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCursePunishment1Map2Tier",
+   "name": "of Punishment",
+   "kind": "prefix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Punishment",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCursePunishment2Map2Tier",
+   "name": "of Punishment",
+   "kind": "prefix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Punishment",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapUberModMinionSpeed",
+   "name": "of Revolt",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players' Minions have 50% less Attack Speed",
+    "Players' Minions have 50% less Cast Speed",
+    "Players' Minions have 50% less Movement Speed",
+    "5% increased Pack size",
+    "16% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "33% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmour1MapWorldsExpedition",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% reduced Chance to Block",
+    "Players have 20% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmour2",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "12% increased Pack size",
+    "Players have 30% reduced Chance to Block",
+    "Players have 25% less Armour"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapPlayersBlockAndArmour2MapWorlds",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 30% reduced Chance to Block",
+    "Players have 25% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmour2MapWorldsExpedition",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 30% reduced Chance to Block",
+    "Players have 25% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmour3",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "12% increased Pack size",
+    "Players have 40% reduced Chance to Block",
+    "Players have 30% less Armour"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapPlayersBlockAndArmour3MapWorlds",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% reduced Chance to Block",
+    "Players have 30% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmour3MapWorldsExpedition",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% reduced Chance to Block",
+    "Players have 30% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmourMapWorlds",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 20% reduced Chance to Block",
+    "Players have 20% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmourMapWorldsExpedition",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 10% reduced Chance to Block",
+    "Players have 15% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersBlockAndArmour_",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "12% increased Pack size",
+    "Players have 20% reduced Chance to Block",
+    "Players have 20% less Armour"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapUberWeakPlayersBlockAndArmour",
+   "name": "of Rust",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players have 40% reduced Chance to Block",
+    "Players have 30% less Armour"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayersPointBlank",
+   "name": "of Skirmishing",
+   "kind": "suffix",
+   "stat_lines": [
+    "15% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "12% increased Pack size",
+    "Players have Point Blank"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapPlayersPointBlankMapWorlds",
+   "name": "of Skirmishing",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Players have Point Blank"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersPointBlankMapWorldsExpedition",
+   "name": "of Skirmishing",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Players have Point Blank"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayerReducedRegen1Map2Tier",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "20% increased Quantity of Items found in this Area",
+    "15% increased Rarity of Items found in this Area",
+    "Players have 20% less Recovery Rate of Life and Energy Shield",
+    "15% increased Pack size"
+   ],
+   "pack_size": 15,
+   "pack_size_max": 15
+  },
+  {
+   "id": "MapPlayerReducedRegen1MapWorlds",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 20% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerReducedRegen1MapWorldsExpedition_",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 20% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerReducedRegen2Map2Tier",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "20% increased Quantity of Items found in this Area",
+    "15% increased Rarity of Items found in this Area",
+    "Players have 40% less Recovery Rate of Life and Energy Shield",
+    "15% increased Pack size"
+   ],
+   "pack_size": 15,
+   "pack_size_max": 15
+  },
+  {
+   "id": "MapPlayerReducedRegen2MapWorldsExpedition_",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 40% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerReducedRegen2MapWorlds_",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 40% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerReducedRegen3Map2Tier",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "20% increased Quantity of Items found in this Area",
+    "15% increased Rarity of Items found in this Area",
+    "Players have 60% less Recovery Rate of Life and Energy Shield",
+    "15% increased Pack size"
+   ],
+   "pack_size": 15,
+   "pack_size_max": 15
+  },
+  {
+   "id": "MapPlayerReducedRegen3MapWorlds",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 60% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerReducedRegen3MapWorldsExpedition",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 60% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerReducedRegenMapWorldsExpedition",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 10% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModRecoveryRate",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players have 80% less Recovery Rate of Life and Energy Shield",
+    "20% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 20,
+   "pack_size_max": 20
+  },
+  {
+   "id": "MapUberWeakPlayerReducedRegen",
+   "name": "of Smothering",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players have 60% less Recovery Rate of Life and Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModRareFracture",
+   "name": "of Splinters",
+   "kind": "suffix",
+   "stat_lines": [
+    "25% chance for Rare Monsters to Fracture on death",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "19% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerNoLifeESRegenMap2Tier",
+   "name": "of Stasis",
+   "kind": "suffix",
+   "stat_lines": [
+    "20% increased Quantity of Items found in this Area",
+    "10% increased Rarity of Items found in this Area",
+    "Players cannot Regenerate Life, Mana or Energy Shield",
+    "12% increased Pack size"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapPlayerNoLifeESRegenMapWorlds",
+   "name": "of Stasis",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players cannot Regenerate Life, Mana or Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerNoLifeESRegenMapWorldsExpedition",
+   "name": "of Stasis",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players cannot Regenerate Life, Mana or Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerNoRegenMap2Tier",
+   "name": "of Stasis",
+   "kind": "suffix",
+   "stat_lines": [
+    "20% increased Quantity of Items found in this Area",
+    "10% increased Rarity of Items found in this Area",
+    "Players have no Life or Mana Regeneration",
+    "12% increased Pack size"
+   ],
+   "pack_size": 12,
+   "pack_size_max": 12
+  },
+  {
+   "id": "MapUberModNoRegen",
+   "name": "of Stasis",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players cannot Regenerate Life, Mana or Energy Shield",
+    "Players cannot Recharge Energy Shield",
+    "30% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 30,
+   "pack_size_max": 30
+  },
+  {
+   "id": "MapUberWeakPlayerNoLifeESRegen",
+   "name": "of Stasis",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Players cannot Regenerate Life, Mana or Energy Shield"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModBarrels",
+   "name": "of Storage",
+   "kind": "suffix",
+   "stat_lines": [
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "Area contains (30-40) additional Clusters of Highly Volatile Barrels",
+    "40% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseTemporalChains1Map2Tier",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Temporal Chains",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseTemporalChains1MapWorlds",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Temporal Chains"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseTemporalChains1MapWorldsExpedition_",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Temporal Chains"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseTemporalChains2Map2Tier",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Temporal Chains",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseTemporalChains2MapWorlds",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Temporal Chains"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseTemporalChains2MapWorldsExpedition",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Temporal Chains"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseTemporalChainsMapWorldsExpedition_",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Temporal Chains"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayerCurseTemporalChains",
+   "name": "of Temporal Chains",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Temporal Chains"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapMonstersBaseSelfCriticalMultiplier1MapWorldsExpedition",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (25-30)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBaseSelfCriticalMultiplier2MapWorlds",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (31-35)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBaseSelfCriticalMultiplier2MapWorldsExpedition_",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (31-35)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBaseSelfCriticalMultiplier3MapWorlds",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (36-40)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBaseSelfCriticalMultiplier3MapWorldsExpedition___",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (36-40)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBaseSelfCriticalMultiplierMapWorlds",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (25-30)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapMonstersBaseSelfCriticalMultiplierMapWorldsExpedition",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (20-24)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModCritDefence",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monsters take (35-45)% reduced Extra Damage from Critical Strikes",
+    "5% increased Pack size",
+    "56% increased Rarity of Items found in this Area",
+    "10% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakMonstersBaseSelfCriticalMultiplier",
+   "name": "of Toughness",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Monsters take (36-40)% reduced Extra Damage from Critical Strikes"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersBuffsExpireFaster1MapWorldsExpedition___",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 30% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersBuffsExpireFaster2MapWorldsExpedition",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 50% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersBuffsExpireFaster2MapWorlds___",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 50% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersBuffsExpireFaster3MapWorlds",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 70% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersBuffsExpireFaster3MapWorldsExpedition_",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 70% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersBuffsExpireFasterMapWorlds",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 30% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapPlayersBuffsExpireFasterMapWorldsExpedition",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 20% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModBuffExpiry",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "Buffs on Players expire 100% faster",
+    "4% increased Pack size",
+    "6% increased Rarity of Items found in this Area",
+    "10% increased Quantity of Items found in this Area",
+    "35% more Scarabs found in Area"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberWeakPlayersBuffsExpireFaster",
+   "name": "of Transience",
+   "kind": "suffix",
+   "stat_lines": [
+    "10% increased Quantity of Items found in this Area",
+    "6% increased Rarity of Items found in this Area",
+    "4% increased Pack size",
+    "Buffs on Players expire 70% faster"
+   ],
+   "pack_size": 4,
+   "pack_size_max": 4
+  },
+  {
+   "id": "MapUberModAurasAffectMonsters",
+   "name": "of Treachery",
+   "kind": "suffix",
+   "stat_lines": [
+    "Auras from Player Skills which affect Allies also affect Enemies",
+    "5% increased Pack size",
+    "54% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModUnionOfSouls",
+   "name": "of Unification",
+   "kind": "suffix",
+   "stat_lines": [
+    "All Magic and Normal Monsters in Area are in a Union of Souls",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPoisoningMapWorlds",
+   "name": "of Venom",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters Poison on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPoisoningMapWorldsExpedition",
+   "name": "of Venom",
+   "kind": "suffix",
+   "stat_lines": [
+    "16% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "6% increased Pack size",
+    "Monsters Poison on Hit"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapUberModPoison",
+   "name": "of Venom",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monsters Poison on Hit",
+    "Monsters have 100% increased Poison Duration",
+    "All Damage from Monsters' Hits can Poison",
+    "6% increased Pack size",
+    "49% increased Rarity of Items found in this Area",
+    "16% increased Quantity of Items found in this Area"
+   ],
+   "pack_size": 6,
+   "pack_size_max": 6
+  },
+  {
+   "id": "MapPlayerCurseVulnerability1Map2Tier",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Vulnerability",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseVulnerability1MapWorlds",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Vulnerability"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseVulnerability1MapWorldsExpedition_",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Vulnerability"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseVulnerability2Map2Tier",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "18% increased Quantity of Items found in this Area",
+    "9% increased Rarity of Items found in this Area",
+    "Players are Cursed with Vulnerability",
+    "14% increased Pack size"
+   ],
+   "pack_size": 14,
+   "pack_size_max": 14
+  },
+  {
+   "id": "MapPlayerCurseVulnerability2MapWorlds",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Vulnerability"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseVulnerability2MapWorldsExpedition_",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Vulnerability"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapPlayerCurseVulnerabilityMapWorldsExpedition__",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Vulnerability"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModNoBlockNoSuppress",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "Players cannot Block",
+    "Players cannot Suppress Spell Damage",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "35% more Scarabs found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberWeakPlayerCurseVulnerability",
+   "name": "of Vulnerability",
+   "kind": "suffix",
+   "stat_lines": [
+    "13% increased Quantity of Items found in this Area",
+    "8% increased Rarity of Items found in this Area",
+    "5% increased Pack size",
+    "Players are Cursed with Vulnerability"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  },
+  {
+   "id": "MapUberModJuggernaut",
+   "name": "of the Juggernaut",
+   "kind": "suffix",
+   "stat_lines": [
+    "Monsters cannot be Stunned",
+    "Monsters' Action Speed cannot be modified to below Base Value",
+    "Monsters' Movement Speed cannot be modified to below Base Value",
+    "5% increased Pack size",
+    "8% increased Rarity of Items found in this Area",
+    "13% increased Quantity of Items found in this Area",
+    "47% more Currency found in Area"
+   ],
+   "pack_size": 5,
+   "pack_size_max": 5
+  }
+ ]
+}
