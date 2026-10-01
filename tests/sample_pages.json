@@ -1,0 +1,13 @@
+[
+ {"cargoquery": [
+  {"title": {"mod_id": "TestModB", "name": "Zealous", "generation_type": "2", "min": "5", "max": "5",
+             "stat_text": "13% increased [[IIQ|Quantity of Items]] found in this [[Area]]&lt;br&gt;5% increased Pack size&lt;br&gt;[[Monster|Monsters]] have 30% increased &lt;span class=\"keyword\"&gt;Speed&lt;/span&gt;"}},
+  {"title": {"mod_id": "TestModA", "name": "Kira&#039;s", "generation_type": "1", "min": "30", "max": "60",
+             "stat_text": "(30-60)% increased Pack size"}}
+ ]},
+ {"cargoquery": [
+  {"title": {"mod_id": "TestModC", "name": "Mighty", "generation_type": "1", "min": "4", "max": "4",
+             "stat_text": "4% increased Pack size&lt;br&gt;[[Area]] has a mighty boss"}}
+ ]},
+ {"cargoquery": []}
+]
