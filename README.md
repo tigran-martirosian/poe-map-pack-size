@@ -11,7 +11,7 @@ You hover over a map item in the game and press a hotkey. A small window shows t
 - Each modifier adds `floor(pack size * multiplier)`. The multiplier comes from the Atlas passive tree: 78% increased effect gives 1.78. The tool asks for your percentage the first time you press the hotkey.
 - The window shows the total, one line per modifier, and how good the roll is within the range 56 to 86. That's the range for an 8-modifier map with my Atlas setup.
 
-The code is in `pack_size/`: `wiki.py` downloads the list, `mods.py` matches item text to modifiers, `calc.py` holds the maths and `app.py` is the hotkey and the tkinter window.
+The code is in `pack_size/`: `wiki.py` downloads the list, `mods.py` matches item text to modifiers, `calc.py` holds the maths and `app.py` is the hotkey and the tkinter window. If you only read one file, `mods.py` is the one: it turns the copied item text into modifiers and picks the value when the wiki lists a modifier more than once.
 
 ## Run
 
